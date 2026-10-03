@@ -1,0 +1,5 @@
+Full inventory intake
+
+Clean saved product photos collected: 674 unique files after exact duplicate removal.
+Marketplace/seller screenshots are excluded from customer-facing photo library and are used only as information sources.
+The first four verified products retain their matched clean galleries. Other catalog cards intentionally use a neutral placeholder until each clean photo group is confidently matched to its listing; this avoids displaying seller screenshots or attaching the wrong product photo.
